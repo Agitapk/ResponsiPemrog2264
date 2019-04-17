@@ -1,0 +1,7 @@
+D:\Matkul\Pemrogaman\GIT\ResponsiPemrog2264\ResponsiPemrog2264\bin\Debug\ResponsiPemrog2264.exe.config
+D:\Matkul\Pemrogaman\GIT\ResponsiPemrog2264\ResponsiPemrog2264\bin\Debug\ResponsiPemrog2264.exe
+D:\Matkul\Pemrogaman\GIT\ResponsiPemrog2264\ResponsiPemrog2264\bin\Debug\ResponsiPemrog2264.pdb
+D:\Matkul\Pemrogaman\GIT\ResponsiPemrog2264\ResponsiPemrog2264\obj\Debug\ResponsiPemrog2264.csprojAssemblyReference.cache
+D:\Matkul\Pemrogaman\GIT\ResponsiPemrog2264\ResponsiPemrog2264\obj\Debug\ResponsiPemrog2264.csproj.CoreCompileInputs.cache
+D:\Matkul\Pemrogaman\GIT\ResponsiPemrog2264\ResponsiPemrog2264\obj\Debug\ResponsiPemrog2264.exe
+D:\Matkul\Pemrogaman\GIT\ResponsiPemrog2264\ResponsiPemrog2264\obj\Debug\ResponsiPemrog2264.pdb
